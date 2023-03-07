@@ -1,0 +1,11 @@
+{
+  "comment_service":{
+     "url": "http://127.0.0.1:10001/comments"
+  }, 
+  "news_service":{
+    "url": "http://127.0.0.1:10002/news"
+  }, 
+ "censor_service":{
+   "url": "http://127.0.0.1:10003/censor"
+ }
+}
